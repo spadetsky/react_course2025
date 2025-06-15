@@ -2,36 +2,7 @@
 
 This is a movie search and discovery app built with React. It allows users to search for movies via the TMDB API and view trending movies stored in an Appwrite backend. This project was built by following the course [Build an App & Master React in 2 Hours! (React 19)](https://jsm.dev) by JavaScript Mastery.
 
----
-
-## 🎥 App Demo
-
-### Desktop Experience
-
 ![Desktop Screenshot](public/app%20screenshots/desktop_ss.png)
-
-![Recording Desktop](public/app%20screenshots/Recoding_Desktop.gif)
-
-### Mobile View
-
-![Mobile Recording](public/app%20screenshots/Recoding_Mobile.gif)
-
-### Tablet Layout
-
-![Tablet Screenshot](public/app%20screenshots/tablet_ss.png)
-
----
-
-## 📊 Feature Screens
-
-- **Search in Action**
-
-  ![Searching Screenshot](public/app%20screenshots/searching_ss.png)
-
-- **Trending Metrics (Appwrite)**
-
-  ![Metrics Screenshot](public/app%20screenshots/metrics_ss.png)
-
 ---
 
 ## 🔧 Tech Stack
@@ -66,3 +37,20 @@ This is a movie search and discovery app built with React. It allows users to se
 - **Clean UI Components**: Includes `Search`, `Spinner`, and `MovieCard`
 
 ---
+
+
+## 🎥 App Demo
+
+### Desktop Experience
+
+![Recording Desktop](public/app%20screenshots/Recoding_Desktop.gif)
+
+### Mobile View
+
+![Mobile Recording](public/app%20screenshots/Recoding_Mobile.gif)
+---
+
+## 📊 Trending Metrics (Appwrite)
+
+  ![Metrics Screenshot](public/app%20screenshots/metrics_ss.png)
+
