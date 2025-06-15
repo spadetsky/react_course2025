@@ -1,7 +1,7 @@
 import React from 'react'
 
-function MovieCard({ movieKey, movie: { title, vote_average, poster_path, release_date, original_language } }) {
-    const IMG_POINT = "https://image.tmdb.org/t/p/w500";
+function MovieCard({ movie: { title, vote_average, poster_path, release_date, original_language } }) {
+    const IMG_POINT = import.meta.env.VITE_IMG_POINT;
     const SEPARATOR_SYM = "|";
     return (
         <div className='movie-card'>
